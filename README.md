@@ -24,7 +24,7 @@ Bridge : https://bridge.t1rn.io
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# Join Crypto Console Community
+# Join CryptoAirdropHindi Community
 
 Join TG : [Crypto Console Telegram](https://t.me/Crypto_airdropHM) | 
 
