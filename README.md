@@ -111,13 +111,13 @@ https://bridge.t1rn.io/executor/YOUR WALLET ADDRESS/total
 
 ![image](https://github.com/user-attachments/assets/59825d29-f400-40c0-83da-27bce824d2dd)
 
-t3rn Discord : https://discord.gg/D5p9rmUexr
+- t3rn Discord : https://discord.gg/D5p9rmUexr
 
 Thank’s for reading
 
-If you need help you can join Discord : https://discord.com/invite/szXyZSgSYg
+If you need help you can join Telegram : https://t.me/Crypto_airdropHM
 
-Twitter : https://x.com/LaSaladeM
+Youtube : https://www.youtube.com/@CryptoAirdropHindi6
 
 Disclaimer : Not a financial Advice an education tutorial do your own research
 
