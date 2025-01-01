@@ -26,9 +26,7 @@ Bridge : https://bridge.t1rn.io
 
 # Join Crypto Console Community
 
-Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) | Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) | Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
-
-Crypto VPS : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
+Join TG : [Crypto Console Telegram](https://t.me/Crypto_airdropHM) | 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
