@@ -37,7 +37,7 @@ Claim faucet to get ETH on
 
 # Join CryptoAirdropHindi Community
 
-Join TG : [Crypto Console Telegram](https://t.me/Crypto_airdropHM) | 
+Join TG : [CryptoAirdropHindi](https://t.me/Crypto_airdropHM) | 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
