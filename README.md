@@ -21,6 +21,17 @@ Explore cross-chain swaps with our intuitive Bridge UI. Now live on testnets, it
 Faucet : https://faucet.brn.t3rn.io/
 
 Bridge : https://bridge.t1rn.io 
+----------------------------------------------------------------------------------------------------------------------------------------
+Claim faucet to get ETH on
+
+- [Arbitrum Sepolia](https://faucet.quicknode.com/arbitrum/sepolia)
+- [Arbitrum Sepolia](https://faucets.chain.link/arbitrum-sepolia)
+- [Arbitrum Sepolia](https://bwarelabs.com/faucets/arbitrum-sepolia)
+- [ethereum-sepolia](https://www.alchemy.com/faucets/ethereum-sepolia)
+- [ethereum-sepolia](https://docs.metamask.io/developer-tools/faucet/)
+- [ethereum-sepolia](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
+- [Optimism Sepolia](https://faucet.quicknode.com/optimism/sepolia)
+- [Base Sepolia & Optimism Sepolia Use this bridge if you want move ETH from different testnet](https://testnets.superbridge.app/base-sepolia)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
