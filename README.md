@@ -105,9 +105,10 @@ screen -r t3rn
 ```
 Leave logs with `CTRL+A+D`
 
-#xCheck your Address on the executor dashboard
+# Check your Address on the executor dashboard
 
-https://bridge.t1rn.io/executor/<YOUR WALLET ADDRESS>/total
+https://bridge.t1rn.io/executor/YOUR WALLET ADDRESS/total
+
 ![image](https://github.com/user-attachments/assets/59825d29-f400-40c0-83da-27bce824d2dd)
 
 t3rn Discord : https://discord.gg/D5p9rmUexr
