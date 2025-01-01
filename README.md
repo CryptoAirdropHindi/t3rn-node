@@ -97,7 +97,27 @@ export ENABLED_NETWORKS='arbitrum-sepolia,base-sepolia,optimism-sepolia,l1rn'
 ```
 ./executor
 ```
+⚠️Leave the screen with `CTRL+A+D`⚠️
 
-Take a screenshot of running node and post it on discord to get a role.
+If you want to check logs
+```
+screen -r t3rn
+```
+Leave logs with `CTRL+A+D`
 
-Discord : https://discord.gg/tW9Zqacw
+#xCheck your Address on the executor dashboard
+
+https://bridge.t1rn.io/executor/<YOUR WALLET ADDRESS>/total
+![image](https://github.com/user-attachments/assets/59825d29-f400-40c0-83da-27bce824d2dd)
+
+t3rn Discord : https://discord.gg/D5p9rmUexr
+
+Thank’s for reading
+
+If you need help you can join Discord : https://discord.com/invite/szXyZSgSYg
+
+Twitter : https://x.com/LaSaladeM
+
+Disclaimer : Not a financial Advice an education tutorial do your own research
+
+
